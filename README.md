@@ -1,3 +1,9 @@
+# solution to the generalized problem
+https://www.reddit.com/r/reactjs/comments/xak8x3/interesting_react_interview_problem/?utm_medium=android_app&utm_source=share
+
+# video
+https://youtu.be/a5RZjLIqopE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
